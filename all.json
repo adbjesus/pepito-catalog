@@ -1,12 +1,14 @@
 {
   "adapters": [
     {"name": "Slack",
+     "image_url": "",
      "url": "https://github.com/yafoy/pepito-slack"
     }
   ],
   "extensions": [
     {"name": "Queenbee",
      "url": "https://github.com/yafoy/pepito-queenbee",
+     "image_url": "",
      "description": "Retrieve sales statistics from Queenbee service",
      "keywords": ["analytics"]
     }
