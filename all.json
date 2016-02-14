@@ -8,7 +8,7 @@
   "extensions": [
     {"name": "Queenbee",
      "url": "https://github.com/yafoy/pepito-queenbee",
-     "image_url": "",
+     "image_url": "https://raw.githubusercontent.com/yafoy/pepito-catalog/master/images/extensions/queenbee.png",
      "description": "Retrieve sales statistics from Queenbee service",
      "keywords": ["analytics"]
     }
